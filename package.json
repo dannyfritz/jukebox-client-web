@@ -1,0 +1,28 @@
+{
+  "name": "jukebox-client-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannyfritz/jukebox-client-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannyfritz/jukebox-client-web/issues"
+  },
+  "homepage": "https://github.com/dannyfritz/jukebox-client-web#readme",
+  "dependencies": {
+    "lokka": "^1.7.0",
+    "lokka-transport-http": "^1.4.0",
+    "vue": "^2.0.3"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  }
+}
